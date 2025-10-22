@@ -7,7 +7,7 @@ It's a playful and expressive animation designed to demonstrate emotional storyt
 
 ## 🎨 Design Preview
 
-![Tomato Crying Animation](animation try.png)
+![Tomato Crying Animation](animation_try.png)
 
 > Currently, only a static image is submitted to showcase the concept.  
 > The interactive Figma prototype can be viewed here:  
